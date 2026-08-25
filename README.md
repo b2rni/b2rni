@@ -5,7 +5,7 @@
 <h3 align="center"> I use VPN .</h8>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Blender+3D+Artist;IT+%26+Support+Specialist;Self-Taught+Programmer;Freelancer+on+Upwork" alt="Typing SVG" />
+  <img src="xd" alt="Typing SVG" />
 </p>
 
 ---
