@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://d1p1y5pyxk2k6i.cloudfront.net/4dkgv%2Fpreview%2F80409757%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1787656766&Signature=huI9VaBVikwBk5bYexNW2JL6P5vWE08fvMH1A1L90rVeysCBkuoKqOMNHUllvSJ0T9WzbwI-ByXXUbj7vcyjhKeJLu5SXJ9hwEupJxNad0FjgQqo2FC8yYqvHPEKXgJjvgofbaZAcBhWPoOjB2e9hq~Ur5N1FEdrH1bJSsbx7MH3o4ao8goYBoQCbtb91ku6O2lzjNmIrqbvIwuegmCPhtzE8FbnI15kxT1hNn0-p0G9PgaD2BJrYOMG0BSuuAr8zgahS6L3Yl4e7qFaipSL8Hhs6XuuC0sXmdh8P8KAGaQofrbxOIGTENZBR-pDihs-0cyeIcaqeLFPOm49cEJOjw__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="100%"/>
+  <img src="https://i.pinimg.com/originals/4b/ea/ca/4beaca89dc536ab5b2766d00af2f095e.gif" width="100%"/>
 </p>
 
-<h3 align="center">3D Designer & Self-Taught Developer — I use VPN 🕶️</h3>
+<h3 align="center"> I use VPN .</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Blender+3D+Artist;IT+%26+Support+Specialist;Self-Taught+Programmer;Freelancer+on+Upwork" alt="Typing SVG" />
@@ -16,7 +16,7 @@
 name: "b2rni"
 role: "hhh"
 based_in: "I use vpn"
-currently: "learning + building + freelancing"
+currently: " idc "
 looking_for: "victims"
 fun_fact: "I know Ctrl+C and Ctrl+V"
 ```
