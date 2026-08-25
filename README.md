@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20I'm%20b2rni%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=200&section=header&text=Hi%20I'm%20b2rni%20👋&fontSize=42&fontColor=00FF41&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="center">3D Designer & Self-Taught Developer from Tunisia 🇹🇳</h3>
+<h3 align="center">3D Designer & Self-Taught Developer — I use VPN 🕶️</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Blender+3D+Artist;IT+%26+Support+Specialist;Self-Taught+Programmer;Freelancer+on+Upwork" alt="Typing SVG" />
@@ -69,5 +69,5 @@ fun_fact: "I know Ctrl+C and Ctrl+V"
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=100&section=footer" />
 </p>
