@@ -22,11 +22,8 @@
 | **Looking for** | victims |
 | **Fun fact** | I know Ctrl+C and Ctrl+V |
 
-</td>
-<td width="40%">
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/de/ac/21/deac21fcc594747e6bebacb0643173a6.gif" width="100%"/>
 
 ---
 
