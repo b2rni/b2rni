@@ -18,15 +18,14 @@
 
 | | |
 |---|---|
-| **Role** | hhh |
+| **Role** | idk |
 | **Based in** | I use VPN |
-| **Currently** | learning · building · freelancing |
+| **Currently** | idc  ·  ·  |
 | **Looking for** | victims |
 | **Fun fact** | I know Ctrl+C and Ctrl+V |
 
 </td>
 <td width="40%">
-<img src="https://i.pinimg.com/1200x/75/92/7c/75927cc3edbb32848718a52cc0227008.jpg" width="100%"/>
 </td>
 </tr>
 </table>
