@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=200&section=header&text=Hi%20I'm%20b2rni%20👋&fontSize=42&fontColor=00FF41&animation=fadeIn&fontAlignY=35" />
+  <img src="https://d1p1y5pyxk2k6i.cloudfront.net/4dkgv%2Fpreview%2F80409757%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1787656766&Signature=huI9VaBVikwBk5bYexNW2JL6P5vWE08fvMH1A1L90rVeysCBkuoKqOMNHUllvSJ0T9WzbwI-ByXXUbj7vcyjhKeJLu5SXJ9hwEupJxNad0FjgQqo2FC8yYqvHPEKXgJjvgofbaZAcBhWPoOjB2e9hq~Ur5N1FEdrH1bJSsbx7MH3o4ao8goYBoQCbtb91ku6O2lzjNmIrqbvIwuegmCPhtzE8FbnI15kxT1hNn0-p0G9PgaD2BJrYOMG0BSuuAr8zgahS6L3Yl4e7qFaipSL8Hhs6XuuC0sXmdh8P8KAGaQofrbxOIGTENZBR-pDihs-0cyeIcaqeLFPOm49cEJOjw__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="100%"/>
 </p>
 
 <h3 align="center">3D Designer & Self-Taught Developer — I use VPN 🕶️</h3>
@@ -26,7 +26,7 @@ fun_fact: "I know Ctrl+C and Ctrl+V"
 ### 🛠️ skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=blender,py,js,html,css,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,linux" />
 </p>
 
 ---
