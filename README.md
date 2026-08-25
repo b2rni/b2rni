@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/ce/5d/7b/ce5d7b3a37f9a8680a18b9f14f171833.gif" width="100%"/>
 </p>
 
-<h3 align="center">3D Designer & Self-Taught Developer — I use VPN 🕶️</h3>
+<h3 align="center"> I use VPN </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Blender+3D+Artist;IT+%26+Support+Specialist;Self-Taught+Programmer;Freelancer+on+Upwork" alt="Typing SVG" />
