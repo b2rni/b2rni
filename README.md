@@ -5,7 +5,7 @@
 <h3 align="center"> I use VPN .</h8>
 
 <p align="center">
-  <img src="xd" alt="Typing SVG" />
+  <img src="xd"  />
 </p>
 
 ---
